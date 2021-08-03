@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Application/git specific ###
+manage.bat
